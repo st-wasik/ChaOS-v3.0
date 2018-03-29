@@ -1,10 +1,10 @@
 # ChaOS-v3.0
-University Project
+##University Project
 
-1.Zarządzanie procesami -> SRT
-2.Mechanizmy synchronizacji -> zmienne warunkowe
-3.Zarządzenie pamięcią -> stronnicowanie FIFO
-4.Zarządzanie procesami -> grupy niehierarchicznie rozłączne
-5.Komunikacja międzyprocesorowa -> komunikaty
-6.Zarządzanie plikami/katalogami -> metoda łańcuchowa
-7.Shell -> wzorowany na Unix
+1.Zarządzanie procesami -> SRT <br />
+2.Mechanizmy synchronizacji -> zmienne warunkowe <br />
+3.Zarządzenie pamięcią -> stronnicowanie FIFO <br />
+4.Zarządzanie procesami -> grupy niehierarchicznie rozłączne <br />
+5.Komunikacja międzyprocesorowa -> komunikaty <br />
+6.Zarządzanie plikami/katalogami -> metoda łańcuchowa <br />
+7.Shell -> wzorowany na Unix <br />
