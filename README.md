@@ -1,5 +1,5 @@
 # ChaOS-v3.0
-##University Project
+## University Project
 
 1.Zarządzanie procesami -> SRT <br />
 2.Mechanizmy synchronizacji -> zmienne warunkowe <br />
